@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "title": {
+        "uz": "olma",
+        "ru": "яблоко",
+        "en": "apple"
+      },
+      "price": 10000,
+      "id": "1"
+    },
+    {
+      "title": {
+        "uz": "non",
+        "ru": "хлеб",
+        "en": "bread"
+      },
+      "price": 4500,
+      "id": "KDCPgCzCV6U"
+    },
+    {
+      "title": {
+        "uz": "suv",
+        "ru": "вода",
+        "en": "water"
+      },
+      "price": 8000,
+      "id": "qJOfKMiS30w"
+    },
+    {
+      "title": {
+        "uz": "gul",
+        "ru": "цветы",
+        "en": "flower"
+      },
+      "price": 45000,
+      "id": "VWdep2QHM1o"
+    },
+    {
+      "title": {
+        "uz": "sut",
+        "ru": "молоко",
+        "en": "milk"
+      },
+      "price": 12000,
+      "id": "m9XkL0pQ1aR"
+    },
+    {
+      "title": {
+        "uz": "pishloq",
+        "ru": "сыр",
+        "en": "cheese"
+      },
+      "price": 65000,
+      "id": "p2YtR7vB9cX"
+    },
+    {
+      "title": {
+        "uz": "go'sht",
+        "ru": "мясо",
+        "en": "meat"
+      },
+      "price": 95000,
+      "id": "g3M1kP4vL8z"
+    },
+    {
+      "title": {
+        "uz": "guruch",
+        "ru": "рис",
+        "en": "rice"
+      },
+      "price": 18000,
+      "id": "r8ZpQ2wE5vY"
+    },
+    {
+      "title": {
+        "uz": "tuxum",
+        "ru": "яйца",
+        "en": "eggs"
+      },
+      "price": 16000,
+      "id": "t4XyN9uC1kO"
+    },
+    {
+      "title": {
+        "uz": "shakar",
+        "ru": "сахар",
+        "en": "sugar"
+      },
+      "price": 14000,
+      "id": "s6VbM3oP7wT"
+    },
+    {
+      "title": {
+        "uz": "kartoshka",
+        "ru": "картошка",
+        "en": "potato"
+      },
+      "price": 6000,
+      "id": "k1L2pR5vN8q"
+    },
+    {
+      "title": {
+        "uz": "piyoz",
+        "ru": "лук",
+        "en": "onion"
+      },
+      "price": 4000,
+      "id": "p5XzT8mK2vL"
+    },
+    {
+      "title": {
+        "uz": "choy",
+        "ru": "чай",
+        "en": "tea"
+      },
+      "price": 22000,
+      "id": "c9QwR3vM6tY"
+    },
+    {
+      "title": {
+        "uz": "qahva",
+        "ru": "кофе",
+        "en": "coffee"
+      },
+      "price": 55000,
+      "id": "k7PzL4vN1xW"
+    },
+    {
+      "title": {
+        "uz": "banan",
+        "ru": "банан",
+        "en": "banana"
+      },
+      "price": 25000,
+      "id": "b2M8vX1pQ9R"
+    }
+  ]
+}
