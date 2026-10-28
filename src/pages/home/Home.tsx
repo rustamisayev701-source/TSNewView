@@ -5,6 +5,7 @@ import { data } from "react-router-dom";
 import { useState } from "react";
 import Modal from "../../components/Modal";
 
+
 function Home() {
     const { t, i18n } = useTranslation();
     const { data, isLoading, isError } = useGetProduct(1, 10);
