@@ -14,6 +14,9 @@ function Home() {
         ? i18n.language as "uz" | "ru" | "en"
         : "uz";
 
+
+        
+
     if (isLoading) {
         return <p className="p-6">Loading...</p>;
     }
